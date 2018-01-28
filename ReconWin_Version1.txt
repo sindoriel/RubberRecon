@@ -2,6 +2,7 @@ REM USB Reconnaissance Payload
 REM Target: Windows XP SP3+ with Powershell and Get-WmiObject
 REM Requirements: TwinDuck firmware
 REM Props: Midnightsnake
+REM Version: 1.0
 REM Notes: The uSD-Card has to be named "DK" and should contain a "slurp" directory
 
 DELAY 1000
